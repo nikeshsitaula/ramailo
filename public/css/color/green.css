@@ -1,0 +1,181 @@
+.progress.plain {
+    background: rgba(114,182,175,0.15);
+}
+.spinner,
+#fancybox-loading div,
+.tp-loader.spinner0 {
+    border-left: 3px solid rgba(114,182,175,.15);
+    border-right: 3px solid rgba(114,182,175,.15);
+    border-bottom: 3px solid rgba(114,182,175,.15);
+    border-top: 3px solid rgba(114,182,175,.8);
+}
+a {
+    color: #72b6af;
+}
+.colored {
+    color: #72b6af
+}
+.post-title a:hover {
+    color: #72b6af
+}
+.black-wrapper a:hover {
+    color: #72b6af
+}
+.color-wrapper {
+    background: #72b6af
+}
+ul.circled li:before {
+    color: #72b6af;
+}
+.contact-info i {
+    color: #72b6af;
+}
+footer.black-wrapper a:hover {
+    color: #72b6af
+}
+.subfooter a:hover {
+    color: #72b6af
+}
+.nav > li > a:hover {
+    color: #72b6af;
+}
+.nav > li.current > a {
+    color: #72b6af;
+}
+.navbar .dropdown-menu {
+    border-top: 2px solid #72b6af !important;
+}
+.navbar .nav .open > a,
+.navbar .nav .open > a:hover,
+.navbar .nav .open > a:focus {
+    color: #72b6af;
+}
+.navbar .dropdown-menu > li > a:hover,
+.navbar .dropdown-menu > li > a:focus,
+.navbar .dropdown-submenu:hover > a,
+.navbar .dropdown-submenu:focus > a,
+.navbar .dropdown-menu > .active > a,
+.navbar .dropdown-menu > .active > a:hover,
+.navbar .dropdown-menu > .active > a:focus {
+    color: #72b6af;
+}
+.btn,
+.btn-submit {
+    background: #72b6af;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active {
+    background: #62a39c;
+}
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active,
+.btn-white.active {
+    background: #72b6af !important;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev:hover,
+.owl-carousel .owl-controls .owl-nav .owl-next:hover {
+    color: #72b6af
+}
+.progress-list li em {
+    color: #72b6af;
+}
+.progress.plain .bar {
+    background: #72b6af;
+}
+.parallax a:hover {
+    color: #72b6af
+}
+.newsletter-wrapper #mc_embed_signup .button {
+    background: #72b6af;
+}
+.newsletter-wrapper #mc_embed_signup .button:hover {
+    background: #62a39c;
+}
+.pricing .plan h4 span {
+    color: #72b6af
+}
+.post-content .meta a:hover,
+.more {
+    color: #72b6af
+}
+.post-content .meta a:hover
+.post-content .footer-meta a:hover {
+    color: #72b6af
+}
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+    color: #72b6af !important;
+}
+.sidebox a:hover {
+    color: #72b6af
+}
+ul.tag-list li a:hover {
+    color: #72b6af !important;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+    -webkit-box-shadow: 0 1px 0 #72b6af;
+    -moz-box-shadow: 0 1px 0 #72b6af;
+    box-shadow: 0 1px 0 #72b6af;
+}
+#comments .info h2 a:hover {
+    color: #72b6af
+}
+#comments a.reply-link:hover {
+    color: #72b6af
+}
+.filter li a:hover,
+.filter li a.active {
+    color: #72b6af
+}
+.panel-title > a:hover {
+    color: #72b6af
+}
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a {
+    color: #72b6af;
+}
+.tooltip-inner {
+    background-color: #72b6af;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #72b6af
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #72b6af
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #72b6af
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #72b6af
+}
+@media (max-width: 767px) { 
+	.filter li a:hover,
+	.filter li a.active {
+	    color: #72b6af
+	}
+}

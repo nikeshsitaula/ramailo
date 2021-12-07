@@ -187,7 +187,7 @@
                     <div class="col-md-9 col-sm-12">
                         <ul class="photoset">
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=Nepal">
                                         <div class="text-overlay">
                                             <div class="info">Nepal</div>
                                         </div>
@@ -196,7 +196,7 @@
                                 </figure>
                             </li>
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=India">
                                         <div class="text-overlay">
                                             <div class="info">India</div>
                                         </div>
@@ -205,7 +205,7 @@
                                 </figure>
                             </li>
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=Usa">
                                         <div class="text-overlay">
                                             <div class="info">USA</div>
                                         </div>
@@ -214,7 +214,7 @@
                                 </figure>
                             </li>
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=France">
                                         <div class="text-overlay">
                                             <div class="info">France</div>
                                         </div>
@@ -223,7 +223,7 @@
                                 </figure>
                             </li>
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=Thailand">
                                         <div class="text-overlay">
                                             <div class="info">Thailand</div>
                                         </div>
@@ -232,7 +232,7 @@
                                 </figure>
                             </li>
                             <li>
-                                <figure><a href="#">
+                                <figure><a href="/itineraries/?country=Singapore">
                                         <div class="text-overlay">
                                             <div class="info">Singapore</div>
                                         </div>
